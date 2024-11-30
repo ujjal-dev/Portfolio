@@ -221,6 +221,10 @@ b{
 .python{
   width: 1%;
   background-color: palevioletred;
+  .java{
+    width: 1%;
+    background-color: blue;
+  }
 }
 .ds{
   width: 1%;
